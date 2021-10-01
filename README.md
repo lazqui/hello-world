@@ -1,2 +1,2 @@
 # hello-world
-Tryout repository
+Heyyyy!! Learning to use GitHub
