@@ -1,2 +1,2 @@
 # hello-world
-Tryout repository
+Hello my name is Diego, learning to use desktop github
